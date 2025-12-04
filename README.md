@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Syed Imtiyaz** - [GitHub Profile](https://github.com/SyedImtiyaz-1)
 
-Project Link: [https://github.com/SyedImtiyaz-1/MarineLife-and-Pollution](https://github.com/SyedImtiyaz-1/MarineLife-and-Pollution)
+Project Link: [https://github.com/SyedImtiyaz-1/marinelife](https://github.com/SyedImtiyaz-1/marinelife)
 
 ---
 
